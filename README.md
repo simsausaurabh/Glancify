@@ -29,9 +29,6 @@ The project includes following Social Medias-
 
 
 
-
-
-
 ## Installation
 
  - Get it locally -
@@ -56,5 +53,15 @@ If you can't find the button on the top of the page, make sure that Developer mo
 
 Report any issue or bug here:
 * [Issue Tracker](https://github.com/Glancify/Glancify/issues)
+
+## Donating
+If you find it useful, please support this Open Source project by just 1 USD and [others by simsausaurabh](https://github.com/simsausaurabh) via [PayPal](https://www.paypal.me/simsausaurabh/1usd).
+
+[![Support via PayPal][paypal-button]](https://www.paypal.me/simsausaurabh/1usd)
+
+[twolfson-projects]: https://github.com/simsausaurabh?tab=repositories
+[paypal-button]: http://rawgit.com/twolfson/paypal-github-button/master/dist/button.svg
+[paypal-twolfson]: https://www.paypal.me/simsausaurabh/1usd
+
 
 <p align="center"> Made from scratch with ❤ </p>
